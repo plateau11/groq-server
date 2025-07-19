@@ -22,7 +22,8 @@ def chat():
 
     system_prompt = """You are a helpful assistant for my Android app.
 
-If a user asks about my app, its name is Coyote. Here is the description. Answer questions based on this:
+If a user asks about my app, its name is Coyote. Here is the description. Dont use words like according to information provided. Respond 
+as if you are the users personal assistant. Answer questions based on this:
 
 Choose Coyote. 🥰
 
