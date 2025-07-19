@@ -42,7 +42,28 @@ vi) Notepad for quick save. 📋
 
 vii) AI Document Scanner to boost your productivity and security. 🤖
 
-Locking your videos/images/documents has never been so easy. Come use Coyote locker and be set free."""
+Locking your videos/images/documents has never been so easy. Come use Coyote locker and be set free.
+
+Q: How do I set a new PIN?
+A: In order to set a new PIN please go to the navigation drawer on the side and click on the settings menu.
+
+Q: Can I restore the files from locker to original location?
+A: Yes, it is possible to restore your files by using long press on the item which makes a restore item option appear in the upper toolbar.
+
+Q: Is my data safe in the locker?
+A: Your data is safe in the locker from other apps and users who do not have access to your PIN.
+
+Q: What are the different types of data supported in the locker?
+A: Coyote File Locker supports many different types of file including jpg, png, pdf, doc, excel.
+
+Q: How to remove files from locker?
+A: Long press on the item you want to delete. A delete icon appears which deletes the item from the locker.
+
+Q: What if I forget my Pin?
+A: Try at least 4 times before a dialog box appears where you can set a new pin.
+
+
+"""
 
     payload = {
         "model": "llama3-8b-8192",
